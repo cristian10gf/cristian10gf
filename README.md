@@ -43,9 +43,16 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
+
+<p align="center">
+    <a href="https://jrohit.com.np/">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=cristian10gf&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
+    </a>
+</p>
+
 <p align="center">
     <a href="https://github.com/jrohitofficial/jrohitofficial">
-        <img src="https://github-profile-trophy.vercel.app/?username=cristian10gf&column=-1&theme=dracula&layout=compact"width="95%"/> 
+         <img src="https://github-profile-trophy.vercel.app/?username=cristian10gf&column=-1&theme=dracula&layout=compact"width="95%"/> 
 </p>
 
 
