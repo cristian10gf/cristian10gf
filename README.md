@@ -4,7 +4,7 @@
 ## My stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cristian10gf&show_icons=true&theme=dark" alt="GitHub stats" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=cristian10gf&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" github-readme-stats"/>
 </p>
 
 ## My languages
